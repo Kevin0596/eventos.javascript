@@ -1,0 +1,14 @@
+body {
+    background-image: linear-gradient(rgb(240, 98, 250), rgb(118, 253, 244), white);
+}
+
+h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 25px;
+}
+
+.container {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
